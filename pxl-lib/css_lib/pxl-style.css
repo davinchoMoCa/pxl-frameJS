@@ -1,0 +1,49 @@
+html,
+body {
+  height: 100% !important;
+  width: 100% !important;
+}
+.pxl-full-100 {
+  height: 100%;
+  width: 100%;
+}
+.pxl-table {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+.pxl-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+.pxl-img {
+  width: 100%;
+  height: auto;
+}
+.pxl-logo {
+  margin: 0 auto;
+  font-size: 50px;
+  padding-bottom: 10px;
+  height: auto;
+  color: #2ecc71;
+}
+.pxl-titulo {
+  color: #2ecc71;
+}
+.pxl-parrafo {
+  font-weight: lighter;
+  font-size: 40px;
+  color: #fff;
+  background-color: #26292c;
+  display: inline-block;
+}
+#pxl-main {
+  position: relative;
+  background: url(../../pxl-pub/SA5A0Q4B9O.jpg);
+  background-repeat: no-repeat;
+  background-position: center center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
